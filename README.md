@@ -58,6 +58,7 @@ A password manager built with Python — securely generate, store, and manage yo
 
 - GitHub: [@Taha-Azadi](https://github.com/Taha-Azadi)
 - Twitter: [@TahaAzadiDev](https://x.com/TahaAzadiDev)
+- LinkedIn [@Taha Azadi](www.linkedin.com/in/taha-azadi-054502424)
 
 ---
 
