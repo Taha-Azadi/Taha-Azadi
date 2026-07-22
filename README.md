@@ -57,12 +57,13 @@ A password manager built with Python — securely generate, store, and manage yo
 ## 🌐 Connect
 
 - GitHub: [@Taha-Azadi](https://github.com/Taha-Azadi)
+- Twitter: [@TahaAzadiDev(https://x.com/TahaAzadiDev)
 
 ---
 
 <div align="center">
 
-```text
+```bash
 $ whoami
 Taha-Azadi — building things with Python, PHP & JS
 ```
