@@ -11,7 +11,7 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### Python • PHP • JS/HTML/CSS Developer
+### Python • PHP • JS/HTML/CSS • Go • C / C++ • SQLite • Customtkinter Developer
 
 </div>
 
@@ -32,6 +32,9 @@ A simple calculator built with Python.
 
 ### 🔐 Password Manager
 A password manager built with Python — securely generate, store, and manage your passwords.
+
+### 📥🌐💻 Download Manager
+A Download manager built with Python - Multiple url and Single url
 
 **Highlights**
 - Clean and simple Python code
@@ -58,7 +61,7 @@ A password manager built with Python — securely generate, store, and manage yo
 
 - GitHub: [@Taha-Azadi](https://github.com/Taha-Azadi)
 - Twitter: [@TahaAzadiDev](https://x.com/TahaAzadiDev)
-- LinkedIn [@Taha Azadi](www.linkedin.com/in/taha-azadi-054502424)
+- LinkedIn [@Taha Azadi](www.linkedin.com/in/Taha-Azadi-Dev)
 
 ---
 
@@ -66,7 +69,17 @@ A password manager built with Python — securely generate, store, and manage yo
 
 ```bash
 $ whoami
-Taha-Azadi — building things with Python, PHP & JS
+Taha-Azadi — building things with [
+"🐍 Python",
+"⚡ Go",
+"🌐 JavaScript",
+"🎨 HTML/CSS",
+"🐘 PHP",
+"💻 C / C++",
+"🗄 SQLite",
+"🖥 CustomTkinter",
+"🔧 Git",
+]
 ```
 
 </div>
