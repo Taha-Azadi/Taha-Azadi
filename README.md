@@ -71,37 +71,31 @@
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🧮 Calculator
 A sleek GUI calculator built with Python & `customtkinter`. Supports standard arithmetic, history tracking, and keyboard input.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CustomTkinter-3B8ED0?style=flat" />
-  <img src="https://img.shields.io/badge/GUI-FF6B6B?style=flat" />
-</p>
+`Python` · `CustomTkinter` · `GUI` · [View Repo →](https://github.com/Taha-Azadi/calculator)
 
-[🔗 View Repository](https://github.com/Taha-Azadi/calculator)
-
-</td>
-<td width="50%">
+---
 
 ### 🔐 Password Manager
 Secure password generator and vault. Features AES-256 encryption, master password protection, and clipboard auto-clear.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Encryption-4CAF50?style=flat" />
-  <img src="https://img.shields.io/badge/Security-F44336?style=flat" />
-</p>
+`Python` · `Encryption` · `Security` · [View Repo →](https://github.com/Taha-Azadi/Password_Manager)
 
-[🔗 View Repository](https://github.com/Taha-Azadi/Password_Manager)
+---
 
-</td>
-</tr>
+### 📥🌐💻 Download Manager
+Multi-threaded download accelerator with resume support. Handles single URLs, batch downloads, and clipboard monitoring.
+
+`Python` · `Multi-threaded` · `Resume` · [View Repo →](https://github.com/Taha-Azadi/Advanced_Download_Manager)
+
+---
+
+### 📦 Python Library Manager
+A modern GUI for managing Python packages. Auto-detects interpreters, PyPI search, dependency trees, venv creator, requirements compare, dark/light mode, and auto-complete.
+
+`Python` · `CustomTkinter` · `PyPI` · `CLI` · [View Repo →](https://github.com/Taha-Azadi/Python_Package_Manager_GUI)
 <tr>
 <td width="50%">
 
