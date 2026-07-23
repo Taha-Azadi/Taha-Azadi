@@ -11,7 +11,7 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### Python • PHP • JS/HTML/CSS • Go • C / C++ • SQLite • Customtkinter Developer
+### Python • PHP • JavaScript • HTML/CSS • Go • C / C++ • SQLite • Git • GitHub • VS Code • Linux • Windows • Bash • Markdown Developer
 
 </div>
 
