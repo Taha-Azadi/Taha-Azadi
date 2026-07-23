@@ -1,88 +1,175 @@
 <div align="center">
 
-# 👨‍💻 Taha-Azadi
+<!-- Animated typing header -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B8ED0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Taha+Azadi;Full-Stack+Developer;Open-Source+Enthusiast;Problem+Solver)](https://github.com/Taha-Azadi)
 
-```text
-████████╗ █████╗ ██╗  ██╗ █████╗
-╚══██╔══╝██╔══██╗██║  ██║██╔══██╗
-   ██║   ███████║███████║███████║
-   ██║   ██╔══██║██╔══██║██╔══██║
-   ██║   ██║  ██║██║  ██║██║  ██║
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<!-- ASCII Banner -->
+<pre style="background: transparent;">
+████████╗ █████╗ ██╗  ██╗ █████╗     ███████╗ █████╗ ██████╗  █████╗ ████████╗██╗
+╚══██╔══╝██╔══██╗██║  ██║██╔══██╗    ╚══███╔╝██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║
+   ██║   ███████║███████║███████║      ███╔╝ ███████║██║  ██║███████║   ██║   ██║
+   ██║   ██╔══██║██╔══██║██╔══██║     ███╔╝  ██╔══██║██║  ██║██╔══██║   ██║   ██║
+   ██║   ██║  ██║██║  ██║██║  ██║    ███████╗██║  ██║██████╔╝██║  ██║   ██║   ██║
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝
+</pre>
 
-### Python • PHP • JavaScript • HTML/CSS • Go • C / C++ • SQLite • Git • GitHub • VS Code • Linux • Windows • Bash • Markdown Developer
+<p>
+  <a href="https://github.com/Taha-Azadi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://x.com/TahaAzadiDev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/Taha-Azadi-Dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:taha.azadi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p><i>Building practical tools with clean code. From Tehran to the world.</i></p>
 
 </div>
 
 ---
 
-## ⚡ Skills
+## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,php,js,html,css,git,github,vscode,go,c,cpp,sqlite,linux,windows,bash,markdown" />
+  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,php,js,html,css,sqlite,git,github,vscode,linux,windows,bash,markdown&theme=dark&perline=8" />
+</p>
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+### 💻 Languages
+- **Python** — Automation, GUIs, Data
+- **Go** — Backend, CLI tools
+- **C / C++** — Systems, Performance
+- **PHP** — Web backends
+- **JavaScript** — Frontend interactivity
+- **HTML / CSS** — Responsive web design
+
+</td>
+<td valign="top" width="33%">
+
+### 🗄 Databases & Tools
+- **SQLite** — Lightweight, serverless DB
+- **Git & GitHub** — Version control, CI/CD
+- **VS Code** — Primary IDE
+- **Bash** — Shell scripting
+- **Markdown** — Documentation
+
+</td>
+<td valign="top" width="33%">
+
+### 🖥 Platforms
+- **Linux** — Daily driver, servers
+- **Windows** — Cross-platform dev
+- **CustomTkinter** — Modern Python GUIs
+- **NSIS** — Windows installer scripts
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧮 Calculator
+A sleek GUI calculator built with Python & `customtkinter`. Supports standard arithmetic, history tracking, and keyboard input.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taha-Azadi&repo=calculator&theme=radical&hide_border=true)](https://github.com/Taha-Azadi/calculator)
+
+</td>
+<td width="50%">
+
+### 🔐 Password Manager
+Secure password generator and vault. Features AES-256 encryption, master password protection, and clipboard auto-clear.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taha-Azadi&repo=password-manager&theme=radical&hide_border=true)](https://github.com/Taha-Azadi/password-manager)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📥🌐💻 Download Manager
+Multi-threaded download accelerator with resume support. Handles single URLs, batch downloads, and clipboard monitoring.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taha-Azadi&repo=download-manager&theme=radical&hide_border=true)](https://github.com/Taha-Azadi/download-manager)
+
+</td>
+<td width="50%">
+
+### 📦 Python Library Manager
+A modern GUI for managing Python packages. Auto-detects interpreters, PyPI search, dependency trees, venv creator, requirements compare, dark/light mode, and auto-complete.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taha-Azadi&repo=python-library-manager&theme=radical&hide_border=true)](https://github.com/Taha-Azadi/python-library-manager)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔍 Python Library Manager — Feature Breakdown</b></summary>
+
+| Feature | Description |
+|---------|-------------|
+| 🔍 **PyPI Search** | Search any package on PyPI. Fetches version, description, author, license, homepage, and download count in real-time. |
+| 📋 **Installed Packages Panel** | Left sidebar lists all installed packages. Click to inspect metadata — Version, Home Page, Author, License. |
+| ⬆ **Update Checker** | One-click scan for outdated packages. Update individually or bulk-update all. |
+| 📑 **Requirements Compare** | Compare two `requirements.txt` files side-by-side. Highlights unique packages and version mismatches. |
+| 🌳 **Dependency Tree** | Visualize package hierarchy like `pipdeptree`. Graceful fallback to `pip list`. |
+| 🧪 **Virtual Environment Creator** | Create `venv` environments without leaving the app. Auto-detects new interpreters. |
+| ☀🌙 **Dark / Light Mode** | Instant theme toggle. Persists for the session. |
+| ⌨ **Auto Complete** | Type `req` → get `requests`, `requests-oauthlib`, etc. Powered by PyPI's top 5000 packages. |
+| 🛡 **Safe & Secure** | `subprocess` with argument lists — zero command injection risk. Regex-validated package names. |
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taha-Azadi&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Azadi&layout=compact&theme=radical&hide_border=true&langs_count=10)
+
+</td>
+</tr>
+</table>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Taha-Azadi&theme=radical&hide_border=true&border_radius=10)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Taha-Azadi&theme=matrix&no-frame=true&row=1&column=7&margin-w=10" />
 </p>
 
 ---
 
-## 🛠 Featured Projects
+## 🌐 Let's Connect
 
-### 🧮 Calculator
-A simple calculator built with Python.
-
-### 🔐 Password Manager
-A password manager built with Python — securely generate, store, and manage your passwords.
-
-### 📥🌐💻 Download Manager
-A Download manager built with Python - Multiple url and Single url
-
-### 📦 Python Library Manager
-A modern, feature-rich GUI for managing Python packages with ease — built with customtkinter. Auto-detects all Python versions, supports live threaded execution, PyPI search, dependency trees, virtual environments, and more.
-#### 🔍 PyPI Search
-Search any package on PyPI directly from the app. Fetches latest version, description, author, license, homepage, and total download count in real-time.
-#### 📋 Installed Packages Panel
-Left sidebar lists every installed package with version. Click any package to inspect its metadata — Version, Home Page, Author, and License — or check for available updates.
-#### ⬆ Update Checker
-One-click scan for outdated packages. Update individually or bulk-update all with a single button. No more pip list --outdated in terminal.
-#### 📑 Requirements Compare
-Compare two requirements.txt files side-by-side. See packages unique to each file and version mismatches highlighted instantly.
-#### 🌳 Dependency Tree
-Visualize your package hierarchy like pipdeptree. Falls back gracefully to pip list if pipdeptree isn't installed.
-#### 🧪 Virtual Environment Creator
-Create new venv environments without leaving the app. Automatically detects and adds the new interpreter to the dropdown after creation.
-#### ☀🌙 Dark / Light Mode
-Toggle between dark and light themes instantly. Your preference persists for the session. Matches your system mood.
-#### ⌨ Auto Complete
-Type req and get requests, requests-oauthlib, etc. Powered by PyPI's top 5000 packages. No more typos in package names.
-#### 🛡 Safe & Secure
-All shell commands use subprocess with argument lists — zero string concatenation. Fully protected against command injection. Package names validated with strict regex.
-
-**Highlights**
-- Clean and simple Python code
-- Focus on practical, everyday tools
-- Actively learning and building new projects
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taha-Azadi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Azadi&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Taha-Azadi&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Taha-Azadi&theme=matrix&no-frame=true&row=1)
-
----
-
-## 🌐 Connect
-
-- GitHub: [@Taha-Azadi](https://github.com/Taha-Azadi)
-- Twitter: [@TahaAzadiDev](https://x.com/TahaAzadiDev)
-- LinkedIn [@Taha Azadi](www.linkedin.com/in/Taha-Azadi-Dev)
+<p align="center">
+  <a href="https://github.com/Taha-Azadi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://x.com/TahaAzadiDev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/Taha-Azadi-Dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:taha.azadi.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
 ---
 
@@ -90,17 +177,21 @@ All shell commands use subprocess with argument lists — zero string concatenat
 
 ```bash
 $ whoami
-Taha-Azadi — building things with [
-"🐍 Python",
-"⚡ Go",
-"🌐 JavaScript",
-"🎨 HTML/CSS",
-"🐘 PHP",
-"💻 C / C++",
-"🗄 SQLite",
-"🖥 CustomTkinter",
-"🔧 Git",
-]
+┌─────────────────────────────────────────────────────────────┐
+│  Taha-Azadi — Full-Stack Developer & Open-Source Builder   │
+├─────────────────────────────────────────────────────────────┤
+│  🐍 Python    │  ⚡ Go       │  🌐 JavaScript              │
+│  🎨 HTML/CSS  │  🐘 PHP      │  💻 C / C++                 │
+│  🗄 SQLite     │  🖥 CustomTkinter                        │
+│  🔧 Git       │  🐧 Linux    │  🪟 Windows                 │
+└─────────────────────────────────────────────────────────────┘
+
+$ echo "Building practical tools, one commit at a time."
 ```
 
 </div>
+
+<!-- Profile views counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Taha-Azadi&color=3B8ED0&style=flat-square" alt="Profile Views" />
+</p>
