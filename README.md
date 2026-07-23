@@ -5,19 +5,19 @@
 
 <!-- ASCII Banner -->
 <pre style="background: transparent;">
- ████████╗ █████╗ ██╗  ██╗ █████╗         █████╗  ███████╗  █████╗  ██████╗  ██╗
-╚══██╔══╝██╔══██╗██║  ██║██╔══██╗        ██╔══██╗ ╚══███╔╝ ██╔══██╗ ██╔══██╗ ██║
-   ██║   ███████║███████║███████║        ███████║   ███╔╝  ███████║ ██║  ██║ ██║
-   ██║   ██╔══██║██╔══██║██╔══██║        ██╔══██║  ███╔╝   ██╔══██║ ██║  ██║ ██║
-   ██║   ██║  ██║██║  ██║██║  ██║        ██║  ██║ ███████╗ ██║  ██║ ██████╔╝ ██║
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝        ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═╝
+████████╗ █████╗ ██╗  ██╗ █████╗     ███████╗ █████╗ ██████╗  █████╗ ████████╗██╗
+╚══██╔══╝██╔══██╗██║  ██║██╔══██╗    ╚══███╔╝██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║
+   ██║   ███████║███████║███████║      ███╔╝ ███████║██║  ██║███████║   ██║   ██║
+   ██║   ██╔══██║██╔══██║██╔══██║     ███╔╝  ██╔══██║██║  ██║██╔══██║   ██║   ██║
+   ██║   ██║  ██║██║  ██║██║  ██║    ███████╗██║  ██║██████╔╝██║  ██║   ██║   ██║
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝
 </pre>
 
 <p>
   <a href="https://github.com/Taha-Azadi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://x.com/TahaAzadiDev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/Taha-Azadi-Dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:tt7097447@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:taha.azadi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p><i>Building practical tools with clean code. From Tehran to the world.</i></p>
@@ -86,7 +86,7 @@ A sleek GUI calculator built with Python & `customtkinter`. Supports standard ar
 ### 🔐 Password Manager
 Secure password generator and vault. Features AES-256 encryption, master password protection, and clipboard auto-clear.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taha-Azadi&repo=password-manager&theme=radical&hide_border=true)](https://github.com/Taha-Azadi/password-manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taha-Azadi&repo=Password_Manager&theme=radical&hide_border=true)](https://github.com/Taha-Azadi/Password_Manager)
 
 </td>
 </tr>
@@ -96,7 +96,7 @@ Secure password generator and vault. Features AES-256 encryption, master passwor
 ### 📥🌐💻 Download Manager
 Multi-threaded download accelerator with resume support. Handles single URLs, batch downloads, and clipboard monitoring.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taha-Azadi&repo=download-manager&theme=radical&hide_border=true)](https://github.com/Taha-Azadi/download-manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taha-Azadi&repo=Advanced_Download_Manager&theme=radical&hide_border=true)](https://github.com/Taha-Azadi/Advanced_Download_Manager)
 
 </td>
 <td width="50%">
@@ -104,7 +104,7 @@ Multi-threaded download accelerator with resume support. Handles single URLs, ba
 ### 📦 Python Library Manager
 A modern GUI for managing Python packages. Auto-detects interpreters, PyPI search, dependency trees, venv creator, requirements compare, dark/light mode, and auto-complete.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taha-Azadi&repo=python-library-manager&theme=radical&hide_border=true)](https://github.com/Taha-Azadi/python-library-manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taha-Azadi&repo=Python_Package_Manager_GUI&theme=radical&hide_border=true)](https://github.com/Taha-Azadi/Python_Package_Manager_GUI)
 
 </td>
 </tr>
