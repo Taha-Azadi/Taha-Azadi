@@ -109,7 +109,7 @@ Multi-threaded download accelerator with resume support. Handles single URLs, ba
 </p>
 
 [🔗 View Repository](https://github.com/Taha-Azadi/Advanced_Download_Manager)
-
+ 
 </td>
 <td width="50%">
 
