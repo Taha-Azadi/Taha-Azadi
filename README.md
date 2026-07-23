@@ -96,6 +96,8 @@ Multi-threaded download accelerator with resume support. Handles single URLs, ba
 A modern GUI for managing Python packages. Auto-detects interpreters, PyPI search, dependency trees, venv creator, requirements compare, dark/light mode, and auto-complete.
 
 `Python` · `CustomTkinter` · `PyPI` · `CLI` · [View Repo →](https://github.com/Taha-Azadi/Python_Package_Manager_GUI)
+
+<table>
 <tr>
 <td width="50%">
 
@@ -109,7 +111,7 @@ Multi-threaded download accelerator with resume support. Handles single URLs, ba
 </p>
 
 [🔗 View Repository](https://github.com/Taha-Azadi/Advanced_Download_Manager)
- 
+
 </td>
 <td width="50%">
 
@@ -124,7 +126,6 @@ A modern GUI for managing Python packages. Auto-detects interpreters, PyPI searc
 </p>
 
 [🔗 View Repository](https://github.com/Taha-Azadi/Python_Package_Manager_GUI)
-
 
 </td>
 </tr>
@@ -146,6 +147,47 @@ A modern GUI for managing Python packages. Auto-detects interpreters, PyPI searc
 | 🛡 **Safe & Secure** | `subprocess` with argument lists — zero command injection risk. Regex-validated package names. |
 
 </details>
+
+---
+
+### 🔥 System Monitor Pro
+A powerful, modern system monitoring tool built with Python and CustomTkinter. Better than Task Manager — features real-time dashboard, process manager, performance charts, network monitor, storage analysis, GPU tracking, services control, startup management, and full system information.
+
+`Python` · `CustomTkinter` · `psutil` · `Matplotlib` · [View Repo →](https://github.com/Taha-Azadi/System_Monitor)
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 System Monitor Pro
+A powerful, modern system monitoring tool built with Python and CustomTkinter. Real-time dashboard with live metric cards, interactive performance charts, process manager, network monitor, storage analysis, GPU tracking, services & startup control, and full system information.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CustomTkinter-1F6AA5?style=flat" />
+  <img src="https://img.shields.io/badge/psutil-5.9+-43B02A?style=flat" />
+  <img src="https://img.shields.io/badge/Matplotlib-3.8+-11557C?style=flat&logo=matplotlib&logoColor=white" />
+</p>
+
+[🔗 View Repository](https://github.com/Taha-Azadi/System_Monitor)
+
+</td>
+<td width="50%">
+
+#### ✨ Key Features
+- 🖥️ **Real-time Dashboard** — Live CPU, RAM, Disk, Network cards with charts
+- ⚙️ **Process Manager** — Search, sort, filter, kill, change priorities
+- 📊 **Performance Monitor** — Per-core CPU bars, memory breakdown, disk I/O
+- 🌐 **Network Monitor** — Real-time speed, interfaces, active connections
+- 💾 **Storage Monitor** — Disk partitions, usage, I/O statistics
+- 🎮 **GPU Monitor** — NVIDIA/AMD load, memory, temperature
+- 🔧 **Services & Startup** — Windows services control, startup programs
+- ℹ️ **System Information** — Complete hardware & OS details
+- 🎨 **Themes** — Dark, Light, Cyberpunk, Ocean
+
+</td>
+</tr>
+</table>
 
 ---
 
