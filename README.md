@@ -78,7 +78,13 @@
 ### 🧮 Calculator
 A sleek GUI calculator built with Python & `customtkinter`. Supports standard arithmetic, history tracking, and keyboard input.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taha-Azadi&repo=calculator&theme=radical&hide_border=true)](https://github.com/Taha-Azadi/calculator)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CustomTkinter-3B8ED0?style=flat" />
+  <img src="https://img.shields.io/badge/GUI-FF6B6B?style=flat" />
+</p>
+
+[🔗 View Repository](https://github.com/Taha-Azadi/calculator)
 
 </td>
 <td width="50%">
@@ -86,7 +92,13 @@ A sleek GUI calculator built with Python & `customtkinter`. Supports standard ar
 ### 🔐 Password Manager
 Secure password generator and vault. Features AES-256 encryption, master password protection, and clipboard auto-clear.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taha-Azadi&repo=Password_Manager&theme=radical&hide_border=true)](https://github.com/Taha-Azadi/Password_Manager)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Encryption-4CAF50?style=flat" />
+  <img src="https://img.shields.io/badge/Security-F44336?style=flat" />
+</p>
+
+[🔗 View Repository](https://github.com/Taha-Azadi/Password_Manager)
 
 </td>
 </tr>
@@ -96,7 +108,13 @@ Secure password generator and vault. Features AES-256 encryption, master passwor
 ### 📥🌐💻 Download Manager
 Multi-threaded download accelerator with resume support. Handles single URLs, batch downloads, and clipboard monitoring.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taha-Azadi&repo=Advanced_Download_Manager&theme=radical&hide_border=true)](https://github.com/Taha-Azadi/Advanced_Download_Manager)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--threaded-FF9800?style=flat" />
+  <img src="https://img.shields.io/badge/Resume-2196F3?style=flat" />
+</p>
+
+[🔗 View Repository](https://github.com/Taha-Azadi/Advanced_Download_Manager)
 
 </td>
 <td width="50%">
@@ -104,7 +122,15 @@ Multi-threaded download accelerator with resume support. Handles single URLs, ba
 ### 📦 Python Library Manager
 A modern GUI for managing Python packages. Auto-detects interpreters, PyPI search, dependency trees, venv creator, requirements compare, dark/light mode, and auto-complete.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taha-Azadi&repo=Python_Package_Manager_GUI&theme=radical&hide_border=true)](https://github.com/Taha-Azadi/Python_Package_Manager_GUI)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CustomTkinter-3B8ED0?style=flat" />
+  <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLI-607D8B?style=flat" />
+</p>
+
+[🔗 View Repository](https://github.com/Taha-Azadi/Python_Package_Manager_GUI)
+
 
 </td>
 </tr>
