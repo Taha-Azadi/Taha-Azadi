@@ -36,6 +36,27 @@ A password manager built with Python — securely generate, store, and manage yo
 ### 📥🌐💻 Download Manager
 A Download manager built with Python - Multiple url and Single url
 
+### 📦 Python Library Manager
+A modern, feature-rich GUI for managing Python packages with ease — built with customtkinter. Auto-detects all Python versions, supports live threaded execution, PyPI search, dependency trees, virtual environments, and more.
+#### 🔍 PyPI Search
+Search any package on PyPI directly from the app. Fetches latest version, description, author, license, homepage, and total download count in real-time.
+#### 📋 Installed Packages Panel
+Left sidebar lists every installed package with version. Click any package to inspect its metadata — Version, Home Page, Author, and License — or check for available updates.
+#### ⬆ Update Checker
+One-click scan for outdated packages. Update individually or bulk-update all with a single button. No more pip list --outdated in terminal.
+#### 📑 Requirements Compare
+Compare two requirements.txt files side-by-side. See packages unique to each file and version mismatches highlighted instantly.
+#### 🌳 Dependency Tree
+Visualize your package hierarchy like pipdeptree. Falls back gracefully to pip list if pipdeptree isn't installed.
+#### 🧪 Virtual Environment Creator
+Create new venv environments without leaving the app. Automatically detects and adds the new interpreter to the dropdown after creation.
+#### ☀🌙 Dark / Light Mode
+Toggle between dark and light themes instantly. Your preference persists for the session. Matches your system mood.
+#### ⌨ Auto Complete
+Type req and get requests, requests-oauthlib, etc. Powered by PyPI's top 5000 packages. No more typos in package names.
+#### 🛡 Safe & Secure
+All shell commands use subprocess with argument lists — zero string concatenation. Fully protected against command injection. Package names validated with strict regex.
+
 **Highlights**
 - Clean and simple Python code
 - Focus on practical, everyday tools
